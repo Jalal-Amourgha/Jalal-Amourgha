@@ -37,6 +37,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jalal-amourgha&show_icons=true&locale=en&layout=compact" alt="jalal-amourgha" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jalal-amourgha&show_icons=true&locale=en" alt="jalal-amourgha" /></p>
+<p style="margin-top: 50px"><img align="right" src="https://www.codewars.com/users/Jalal_Amr/badges/large"></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jalal-amourgha&" alt="jalal-amourgha" /></p>
+
