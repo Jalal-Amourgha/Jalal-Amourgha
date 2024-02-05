@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jalal-amourgha&label=Profile%20views&color=0e75b6&style=flat" alt="jalal-amourgha" /> </p>
 
-- 👨‍🎓 I'm a Front-End Developer SelfTech
+- 👨‍🎓 I'm a Front-End Developer Self Taught
 
 - 🌱 I’m currently mastering **PHP and Laravel**
 
