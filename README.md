@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently mastering **PHP and Laravel**
 
-- 💬 Ask me about anything about Front end i'm happy to help
+- 💬 Ask me about anything about Front-end, i'm happy to help
 
 - 👨‍💻 All of my projects are available at [Here](https://jalal-amourgha.onrender.com/)
 
