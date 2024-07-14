@@ -1,16 +1,11 @@
 <div align="center">
-  <img src="https://media.discordapp.net/attachments/584650557688512533/1260274833246261429/jalal-ezgif.com-video-to-gif-converter.gif?ex=66955167&is=6693ffe7&hm=0cf838fd25b1658d90ab63cf25f34e4c56afa2f96acb4b52736231c28d973713&=" width="100%" />
+  <img src="https://media.discordapp.net/attachments/584650557688512533/1262182993913581609/jalal-ezgif.com-resize.gif?ex=6695ab03&is=66945983&hm=afc50b45a9c68cc2dc0f8ffd344b4dce38b69f6f2fe3493c2e5a6dd1affcffbe&=" width="100%" />
  </div>
 
 <hr>
 <p>Hello! 👋, my name is <strogn>Jalal Amourgha</strogn>. I'm a junior software developer from Morocco.</p>
 
-
-
 <p>i have a huge interest about web develoment. With a strong foundation in web development, I have developed extensive expertise in frontend technologies and practices, ensuring seamless and interactive user experiences. My backend skills are focused on Next.js, MongoDB, and TypeScript, allowing me to build robust and scalable web applications.</p>
-
-
-
 
 - 👨‍🎓 I'm a Junior Software Developer Self Taught
 
@@ -40,7 +35,6 @@
 <a> <img src="https://raw.githubusercontent.com/Jalal-Amourgha/Jalal-Amourgha/main/icons/icon%20(1).png" alt="javascript" width="40" height="40"/> </a> 
 <a> <img src="https://raw.githubusercontent.com/Jalal-Amourgha/Jalal-Amourgha/main/icons/icon%20(2).png" alt="CSS" width="40" height="40"/> </a>
 
-
 </p>
 
 <h3 align="left">🚀 Frameworks and libraries</h3>
@@ -52,12 +46,6 @@
 <a> <img src="https://raw.githubusercontent.com/Jalal-Amourgha/Jalal-Amourgha/main/icons/icon%20(10).png" alt="php" width="40" height="40"/> </a>
 
 </p>
-
-
-
-
-
-
 
 <h3 align="left">💻 Software and tools</h3>
 <p align="left">
@@ -72,5 +60,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jalal-amourgha&show_icons=true&locale=en&layout=compact" alt="jalal-amourgha" /></p>
 
 <p style="margin-top: 50px"><img align="right" src="https://www.codewars.com/users/Jalal_Amr/badges/large"></p>
-
-
