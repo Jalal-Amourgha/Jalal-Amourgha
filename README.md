@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="https://media.discordapp.net/attachments/584650557688512533/1262182993913581609/jalal-ezgif.com-resize.gif?ex=6695ab03&is=66945983&hm=afc50b45a9c68cc2dc0f8ffd344b4dce38b69f6f2fe3493c2e5a6dd1affcffbe&=" width="60%" />
  </div>
@@ -54,11 +53,10 @@
 
 <h3 align="left">🛢Databases</h3>
 <p align="left">
-<a><img src="https://raw.githubusercontent.com/Jalal-Amourgha/Jalal-Amourgha/main/icons/icon18.png" width="40" height="40"/> </a> 
+<a><img src="https://raw.githubusercontent.com/Jalal-Amourgha/Jalal-Amourgha/main/icons/icon18.png" width="40" height="40"/> </a>
 
 <h3 align="left">💻 Software and tools</h3>
 <p align="left">
-<a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Google_Chrome_icon_%28February_2022%29.svg/2048px-Google_Chrome_icon_%28February_2022%29.svg.png" width="40" height="40"/> </a> 
 <a><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 <a><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" alt="java" width="40" height="40"/> </a>
@@ -68,6 +66,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jalal-amourgha&show_icons=true&locale=en&layout=compact" alt="jalal-amourgha" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jalal-amourgha&show_icons=true&locale=en" alt="jalal-amourgha" /></p>
-
-
-
