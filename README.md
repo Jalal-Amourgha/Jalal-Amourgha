@@ -54,6 +54,7 @@
 <h3 align="left">🛢Databases</h3>
 <p align="left">
 <a><img src="https://raw.githubusercontent.com/Jalal-Amourgha/Jalal-Amourgha/main/icons/icon18.png" width="40" height="40"/> </a>
+<a><img src="https://raw.githubusercontent.com/Jalal-Amourgha/Jalal-Amourgha/main/icons/icon20.png" width="40" height="40"/> </a>
 
 <h3 align="left">💻 Software and tools</h3>
 <p align="left">
