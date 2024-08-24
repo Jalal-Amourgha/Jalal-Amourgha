@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.discordapp.net/attachments/584650557688512533/1262182993913581609/jalal-ezgif.com-resize.gif?ex=66aa1a43&is=66a8c8c3&hm=16c48c8500bf2864b7b45b260eb9ecfcf3e2ac9b3c292125d19b87e20bd986ac&=" width="60%" />
+  <img src="https://raw.githubusercontent.com/Jalal-Amourgha/Jalal-Amourgha/main/icons/GIF.gif" width="60%" />
  </div>
 
 <hr>
