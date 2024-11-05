@@ -32,10 +32,10 @@
 <p align="left">
 <a> <img src="https://raw.githubusercontent.com/Jalal-Amourgha/Jalal-Amourgha/main/icons/icon16.png" alt="typescript" width="40" height="40"/> </a>
 <a> <img src="https://raw.githubusercontent.com/Jalal-Amourgha/Jalal-Amourgha/main/icons/icon6.png" alt="javascript" width="40" height="40"/> </a> 
-<a> <img src="https://raw.githubusercontent.com/Jalal-Amourgha/Jalal-Amourgha/main/icons/icon4.png" alt="javascript" width="40" height="40"/> </a> 
+<a> <img src="https://raw.githubusercontent.com/Jalal-Amourgha/Jalal-Amourgha/main/icons/icon21.png" alt="Python" width="40" height="40"/> </a> 
+<a> <img src="https://raw.githubusercontent.com/Jalal-Amourgha/Jalal-Amourgha/main/icons/icon4.png" alt="HTML" width="40" height="40"/> </a> 
 <a> <img src="https://raw.githubusercontent.com/Jalal-Amourgha/Jalal-Amourgha/main/icons/icon5.png" alt="CSS" width="40" height="40"/> </a>
 <a> <img src="https://raw.githubusercontent.com/Jalal-Amourgha/Jalal-Amourgha/main/icons/icon9.png" alt="php" width="40" height="40"/> </a>
-
 
 </p>
 
