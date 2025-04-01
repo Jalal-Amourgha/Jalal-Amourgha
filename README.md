@@ -4,7 +4,7 @@
 
 <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jalal-amourgha&label=Profile%20views&color=0e75b6&style=flat" alt="jalal-amourgha" /> </p>
-<p>Hello! 👋, my name is <strogn>Jalal Amourgha</strogn>. I'm a junior software developer from Morocco.</p>
+<p>Hello! 👋, my name is <strogn>Jalal Amourgha</strogn>. I'm a junior software developer from Morocco. 🇲🇦</p>
 
 <p>i have a huge interest about web develoment. With a strong foundation in web development, I have developed extensive expertise in frontend technologies and practices, ensuring seamless and interactive user experiences. My backend skills are focused on Next.js, MongoDB, and TypeScript, allowing me to build robust and scalable web applications.</p>
 
