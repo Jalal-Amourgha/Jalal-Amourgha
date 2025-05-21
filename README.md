@@ -39,7 +39,12 @@ Beyond the web, I have a deep-rooted passion for the C programming language. I f
 <img src="https://res.cloudinary.com/drsghr0p5/image/upload/v1747833498/icon16_pzuwid.png" alt="typescript" width="40" height="40"/>
 <img src="https://res.cloudinary.com/drsghr0p5/image/upload/v1747833477/icon21_goao0x.png" alt="python" width="40" height="40"/>
 <img src="https://res.cloudinary.com/drsghr0p5/image/upload/v1747833488/icon9_l0fop9.png" alt="php" width="40" height="40"/>
+</p>
 
+<h3 align="left">🎨 Markup & Styling</h3>
+<p align="left">
+<img src="https://res.cloudinary.com/drsghr0p5/image/upload/v1747833483/icon4_zr3ddp.png" alt="html" width="40" height="40"/>
+<img src="https://res.cloudinary.com/drsghr0p5/image/upload/v1747833484/icon5_yi4xe1.png" alt="css" width="40" height="40"/>
 </p>
 
 <h3 align="left">🚀 Frameworks and libraries</h3>
@@ -47,8 +52,6 @@ Beyond the web, I have a deep-rooted passion for the C programming language. I f
 <img src="https://res.cloudinary.com/drsghr0p5/image/upload/v1747833499/icon17_mhohd4.png" alt="next js" width="40" height="40"/>
 <img src="https://res.cloudinary.com/drsghr0p5/image/upload/v1747833496/icon14_zw6etl.png" alt="react" width="40" height="40"/>
 <img src="https://res.cloudinary.com/drsghr0p5/image/upload/v1747833497/icon15_ptjtfg.png" alt="tailwind css" width="40" height="40"/>
-<img src="https://res.cloudinary.com/drsghr0p5/image/upload/v1747833483/icon4_zr3ddp.png" alt="html" width="40" height="40"/>
-<img src="https://res.cloudinary.com/drsghr0p5/image/upload/v1747833484/icon5_yi4xe1.png" alt="css" width="40" height="40"/>
 <img src="https://res.cloudinary.com/drsghr0p5/image/upload/v1747833487/icon7_dv23ww.png" alt="bootstrap" width="40" height="40"/>
 <img src="https://res.cloudinary.com/drsghr0p5/image/upload/v1747833489/icon10_bjqbqp.png" alt="sass" width="40" height="40"/>
 <img src="https://res.cloudinary.com/drsghr0p5/image/upload/v1747833492/icon13_k31s8a.png" alt="php" width="40" height="40"/>
