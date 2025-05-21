@@ -19,43 +19,45 @@
 - 💪 This is where solve problems:
   - <a href="https://www.codewars.com/users/Jalal_Amr" target="_blank"><img align="center" src="https://assets-global.website-files.com/62e95dddfb380a0e61193e7d/6363e7db70db732290fa3db6_logo-256.png" width="35" height="35"/></a>
 
-
 <h1>🛠️ My favorite tools</h1>
 
 <h3 align="left">👨‍💻 Programming languages</h3>
 <p align="left">
-<a> <img src="https://raw.githubusercontent.com/Jalal-Amourgha/Jalal-Amourgha/main/icons/icon16.png" alt="typescript" width="40" height="40"/> </a>
-<a> <img src="https://raw.githubusercontent.com/Jalal-Amourgha/Jalal-Amourgha/main/icons/icon6.png" alt="javascript" width="40" height="40"/> </a> 
-<a> <img src="https://raw.githubusercontent.com/Jalal-Amourgha/Jalal-Amourgha/main/icons/icon21.png" alt="Python" width="40" height="40"/> </a> 
-<a> <img src="https://raw.githubusercontent.com/Jalal-Amourgha/Jalal-Amourgha/main/icons/icon4.png" alt="HTML" width="40" height="40"/> </a> 
-<a> <img src="https://raw.githubusercontent.com/Jalal-Amourgha/Jalal-Amourgha/main/icons/icon5.png" alt="CSS" width="40" height="40"/> </a>
-<a> <img src="https://raw.githubusercontent.com/Jalal-Amourgha/Jalal-Amourgha/main/icons/icon9.png" alt="php" width="40" height="40"/> </a>
+<a> <img src="https://res.cloudinary.com/drsghr0p5/image/upload/v1747833478/icon22_der3af.png" alt="c" width="40" height="40"/> </a>
+<a> <img src="https://res.cloudinary.com/drsghr0p5/image/upload/v1747833485/icon6_cfdhox.png" alt="javascript" width="40" height="40"/> </a> 
+<a> <img src="https://res.cloudinary.com/drsghr0p5/image/upload/v1747833498/icon16_pzuwid.png" alt="typescript" width="40" height="40"/> </a> 
+<a> <img src="https://res.cloudinary.com/drsghr0p5/image/upload/v1747833477/icon21_goao0x.png" alt="python" width="40" height="40"/> </a> 
+<a> <img src="https://res.cloudinary.com/drsghr0p5/image/upload/v1747833488/icon9_l0fop9.png" alt="php" width="40" height="40"/> </a>
 
 </p>
 
 <h3 align="left">🚀 Frameworks and libraries</h3>
 <p align="left">
-<a target="#"> <img src="https://raw.githubusercontent.com/Jalal-Amourgha/Jalal-Amourgha/main/icons/icon17.png" alt="react" width="40" height="40"/> </a>
-<a> <img src="https://raw.githubusercontent.com/Jalal-Amourgha/Jalal-Amourgha/main/icons/icon13.png" alt="php" width="40" height="40"/> </a>
-<a> <img src="https://raw.githubusercontent.com/Jalal-Amourgha/Jalal-Amourgha/main/icons/icon14.png" alt="typescript" width="40" height="40"/> </a>
-<a> <img src="https://raw.githubusercontent.com/Jalal-Amourgha/Jalal-Amourgha/main/icons/icon15.png" alt="javascript" width="40" height="40"/> </a> 
-  <a> <img src="https://raw.githubusercontent.com/Jalal-Amourgha/Jalal-Amourgha/main/icons/icon7.png" alt="javascript" width="40" height="40"/> </a> 
-<a> <img src="https://raw.githubusercontent.com/Jalal-Amourgha/Jalal-Amourgha/main/icons/icon10.png" alt="php" width="40" height="40"/> </a>
-<a> <img src="https://raw.githubusercontent.com/Jalal-Amourgha/Jalal-Amourgha/main/icons/icon11.png" alt="php" width="40" height="40"/> </a>
-<a> <img src="https://raw.githubusercontent.com/Jalal-Amourgha/Jalal-Amourgha/main/icons/icon12.png" alt="php" width="40" height="40"/> </a>
-<a> <img src="https://raw.githubusercontent.com/Jalal-Amourgha/Jalal-Amourgha/main/icons/icon19.png" alt="php" width="40" height="40"/> </a>
+<a target="#"> <img src="https://res.cloudinary.com/drsghr0p5/image/upload/v1747833499/icon17_mhohd4.png" alt="next js" width="40" height="40"/> </a>
+<a> <img src="https://res.cloudinary.com/drsghr0p5/image/upload/v1747833496/icon14_zw6etl.png" alt="react" width="40" height="40"/> </a>
+<a> <img src="https://res.cloudinary.com/drsghr0p5/image/upload/v1747833497/icon15_ptjtfg.png" alt="tailwind css" width="40" height="40"/> </a>
+<a> <img src="https://res.cloudinary.com/drsghr0p5/image/upload/v1747833483/icon4_zr3ddp.png" alt="html" width="40" height="40"/> </a> 
+  <a> <img src="https://res.cloudinary.com/drsghr0p5/image/upload/v1747833484/icon5_yi4xe1.png" alt="css" width="40" height="40"/> </a> 
+<a> <img src="https://res.cloudinary.com/drsghr0p5/image/upload/v1747833487/icon7_dv23ww.png" alt="bootstrap" width="40" height="40"/> </a>
+<a> <img src="https://res.cloudinary.com/drsghr0p5/image/upload/v1747833489/icon10_bjqbqp.png" alt="sass" width="40" height="40"/> </a>
+<a> <img src="https://res.cloudinary.com/drsghr0p5/image/upload/v1747833492/icon13_k31s8a.png" alt="php" width="40" height="40"/> </a>
+<a> <img src="https://res.cloudinary.com/drsghr0p5/image/upload/v1747833492/icon12_gsbajd.png" alt="jquery" width="40" height="40"/> </a>
+<a> <img src="https://res.cloudinary.com/drsghr0p5/image/upload/v1747833491/icon11_nif0lc.png" alt="jest js" width="40" height="40"/> </a>
+<a> <img src="https://res.cloudinary.com/drsghr0p5/image/upload/v1747833502/icon19_smvpeg.png" alt=" mui" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">🛢Databases</h3>
 <p align="left">
-<a><img src="https://raw.githubusercontent.com/Jalal-Amourgha/Jalal-Amourgha/main/icons/icon18.png" width="40" height="40"/> </a>
-<a><img src="https://raw.githubusercontent.com/Jalal-Amourgha/Jalal-Amourgha/main/icons/icon20.png" width="40" height="40"/> </a>
+<a><img src="https://res.cloudinary.com/drsghr0p5/image/upload/v1747833502/icon18_xcne4f.png"  alt="mongodb" width="40" height="40"/> </a>
+<a><img src="https://res.cloudinary.com/drsghr0p5/image/upload/v1747833478/icon20_rfucea.png" alt="mysql" width="40" height="40"/> </a>
+<a><img src="https://res.cloudinary.com/drsghr0p5/image/upload/v1747833478/icon23_trr4yh.png" alt="firebase" width="40" height="40"/> </a>
+</p>
 
 <h3 align="left">💻 Software and tools</h3>
 <p align="left">
-<a><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-<a><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" alt="java" width="40" height="40"/> </a>
+<a><img src="https://res.cloudinary.com/drsghr0p5/image/upload/v1747835044/icon27_tc9g5v.png" alt="figma" width="40" height="40"/> </a>
+<a><img src="https://res.cloudinary.com/drsghr0p5/image/upload/v1747835045/icon28_y7svkz.png" alt="git" width="40" height="40"/> </a> 
+<a><img src="https://res.cloudinary.com/drsghr0p5/image/upload/v1747833481/icon26_eosjjg.png" alt="npm" width="40" height="40"/> </a>
 </p>
 
 <h1>📊 Stats</h1>
