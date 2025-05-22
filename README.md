@@ -24,7 +24,7 @@ Beyond the web, I have a deep-rooted passion for the C programming language. I f
 
 - 💬 Ask me about anything about Front-end, Next JS, React JS, C Happy to help.
 
-- 👨‍💻 All of my projects are available at [Here](https://jalal-amourgha.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [Here](https://jalal-amourgha.github.io/)
 
 - 💪 This is where i solve problems:
   - <a href="https://leetcode.com/u/Jalal_Amr/" target="_blank"><img align="center" src="https://res.cloudinary.com/drsghr0p5/image/upload/v1747833481/icon25_wjocj8.png" width="35" height="35"/></a>
