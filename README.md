@@ -30,7 +30,7 @@ Beyond the web, I have a deep-rooted passion for the C programming language. I f
   - <a href="https://leetcode.com/u/Jalal_Amr/" target="_blank"><img align="center" src="https://res.cloudinary.com/drsghr0p5/image/upload/v1747833481/icon25_wjocj8.png" width="35" height="35"/></a>
   - <a href="https://www.codewars.com/users/Jalal_Amr" target="_blank"><img align="center" src="https://res.cloudinary.com/drsghr0p5/image/upload/v1747833479/icon24_ierxng.png" width="35" height="35"/></a>
 
-<h1>🛠️ My favorite tools</h1>
+<h1>🛠️ My Favorite Tools</h1>
 
 <h3 align="left">👨‍💻 Programming languages</h3>
 <p align="left">
