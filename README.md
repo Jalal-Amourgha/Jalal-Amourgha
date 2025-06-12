@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/C-Passionate-informational?style=flat&logo=c" />
 </p>
 
-<p>Hello! 👋, my name is <strogn>Jalal Amourgha</strogn>. I'm a software developer from Morocco. 🇲🇦</p>
+<p>Hello! 👋, my name is <strogn>Jalal Amourgha</strogn>. I'm a software developer student from Morocco. 🇲🇦</p>
 
 <p>
   I have a huge interest in web development. With a strong foundation in frontend technologies, I strive to deliver seamless and interactive user experiences. My backend skills center around Next.js, MongoDB, and TypeScript, enabling me to build robust and scalable web applications.
