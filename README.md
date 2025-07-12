@@ -98,11 +98,6 @@ Beyond the web, I have a deep-rooted passion for the C programming language. I f
       <img src="https://www.codewars.com/users/Jalal_Amr/badges/large" alt="Codewars Badge" />
     </td>
   </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://leetcard.jacoblin.cool/Jalal_Amr?theme=dark&font=baloo&ext=activity" alt="LeetCode Card" />
-    </td>
-  </tr>
 </table>
 
 
