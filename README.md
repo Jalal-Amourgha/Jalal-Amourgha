@@ -18,7 +18,7 @@
 Beyond the web, I have a deep-rooted passion for the C programming language. I find its low-level control and performance fascinating, and I am currently dedicated to mastering its intricacies. This dual interest in both modern web technologies and foundational systems programming reflects my commitment to becoming a well-rounded developer. I believe that understanding how things work under the hood enriches my capabilities in higher-level development and problem-solving.
 </p>
 
-- 👨‍🎓 I'm a Software Developer Self Taught
+- 👨‍🎓 I'm a Junior Software Developer Self Taught
 
 - 🌱 I’m currently mastering **C && Python**
 
