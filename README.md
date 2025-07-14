@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/C-Passionate-informational?style=flat&logo=c" />
 </p>
 
-<h3 align="center">Hello! 👋, my name is <strogn>Jalal Amourgha</strogn>. I'm a software developer student from Morocco. 🇲🇦</h3>
+<h3 align="center">Hello! 👋, my name is <strogn>Jalal Amourgha</strogn></h3>
 
 <p></p>
 
