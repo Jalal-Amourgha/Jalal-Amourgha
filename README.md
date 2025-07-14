@@ -8,26 +8,35 @@
 <img src="https://img.shields.io/badge/C-Passionate-informational?style=flat&logo=c" />
 </p>
 
-<p>Hello! 👋, my name is <strogn>Jalal Amourgha</strogn>. I'm a software developer student from Morocco. 🇲🇦</p>
+<p align="center">Hello! 👋, my name is <strogn>Jalal Amourgha</strogn>. I'm a software developer student from Morocco. 🇲🇦</p>
 
-<p>
-  I have a huge interest in web development. With a strong foundation in frontend technologies, I strive to deliver seamless and interactive user experiences. My backend skills center around Next.js, MongoDB, and TypeScript, enabling me to build robust and scalable web applications.
+<p></p>
+
+<img align="right" alt="Coding" width="500" src="https://badge.mediaplus.ma/darkblue/jamourgh?UM6P=on" alt="jamourgh's 42 stats">
+
+<p align="left">
+  <p align=¨left¨ width=¨400¨>
+    I have a huge interest in web development. With a strong foundation in frontend technologies, I strive to deliver seamless and interactive user experiences. My backend skills center around Next.js, MongoDB, and TypeScript, enabling me to build robust and scalable web applications.
+  </p>
+  
+  <p align=¨left¨ width=¨400¨>
+  Beyond the web, I have a deep-rooted passion for the C programming language. I find its low-level control and performance fascinating, and I am currently dedicated to mastering its intricacies. This dual interest in both modern web technologies and foundational systems programming reflects my commitment to becoming a well-rounded developer. I believe that understanding how things work under the hood enriches my capabilities in higher-level development and problem-solving.
+  </p>
+  
+  - 👨‍🎓 I'm a Junior Software Developer Self Taught
+  
+  - 🌱 I’m currently mastering **C && Python**
+  
+  - 💬 Ask me about anything about Front-end, Next JS, React JS, C Happy to help.
+  
+  - 👨‍💻 All of my projects are available at [Here](https://jalal-amourgha.github.io/)
+  
+  - 💪 This is where i solve problems:
+    - <a href="https://www.codewars.com/users/Jalal_Amr" target="_blank"><img align="center" src="https://res.cloudinary.com/drsghr0p5/image/upload/v1747833479/icon24_ierxng.png" width="35" height="35"/></a>
 </p>
 
-<p>
-Beyond the web, I have a deep-rooted passion for the C programming language. I find its low-level control and performance fascinating, and I am currently dedicated to mastering its intricacies. This dual interest in both modern web technologies and foundational systems programming reflects my commitment to becoming a well-rounded developer. I believe that understanding how things work under the hood enriches my capabilities in higher-level development and problem-solving.
-</p>
 
-- 👨‍🎓 I'm a Junior Software Developer Self Taught
 
-- 🌱 I’m currently mastering **C && Python**
-
-- 💬 Ask me about anything about Front-end, Next JS, React JS, C Happy to help.
-
-- 👨‍💻 All of my projects are available at [Here](https://jalal-amourgha.github.io/)
-
-- 💪 This is where i solve problems:
-  - <a href="https://www.codewars.com/users/Jalal_Amr" target="_blank"><img align="center" src="https://res.cloudinary.com/drsghr0p5/image/upload/v1747833479/icon24_ierxng.png" width="35" height="35"/></a>
 
 <h1>🛠️ My Favorite Tools</h1>
 
