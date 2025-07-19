@@ -79,7 +79,8 @@
 <h3 align="left">💻 Software and tools</h3>
 <p align="left">
 <img src="https://res.cloudinary.com/drsghr0p5/image/upload/v1747835044/icon27_tc9g5v.png" alt="figma" width="40" height="40"/>
-<img src="https://res.cloudinary.com/drsghr0p5/image/upload/v1747835045/icon28_y7svkz.png" alt="git" width="40" height="40"/>
+<img src="https://res.cloudinary.com/drsg
+hr0p5/image/upload/v1747835045/icon28_y7svkz.png" alt="git" width="40" height="40"/>
 <img src="https://res.cloudinary.com/drsghr0p5/image/upload/v1747833481/icon26_eosjjg.png" alt="npm" width="40" height="40"/>
 </p>
 
@@ -108,4 +109,7 @@
     </td>
   </tr>
 </table>
+
+
+
 
