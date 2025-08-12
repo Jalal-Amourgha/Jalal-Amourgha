@@ -32,6 +32,7 @@
   - 👨‍💻 All of my projects are available at [Here](https://jalal-amourgha.github.io/)
   
   - 💪 This is where i solve problems:
+    - <a href="https://leetcode.com/u/Mr29/" target="_blank"><img align="center" src="https://res.cloudinary.com/drsghr0p5/image/upload/v1747833481/icon25_wjocj8.png" width="35" height="35"/></a>
     - <a href="https://www.codewars.com/users/Jalal_Amr" target="_blank"><img align="center" src="https://res.cloudinary.com/drsghr0p5/image/upload/v1747833479/icon24_ierxng.png" width="35" height="35"/></a>
 </p>
 
