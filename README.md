@@ -109,4 +109,9 @@ hr0p5/image/upload/v1747835045/icon28_y7svkz.png" alt="git" width="40" height="4
       <img src="https://www.codewars.com/users/Jalal_Amr/badges/large" alt="Codewars Badge" />
     </td>
   </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://leetcard.jacoblin.cool/Mr29?theme=dark&font=baloo&ext=activity" alt="LeetCode Card" />
+    </td>
+  </tr>
 </table>
