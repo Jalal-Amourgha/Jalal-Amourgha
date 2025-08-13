@@ -15,11 +15,11 @@
 <img align="right" alt="Coding" width="450" src="https://badge.mediaplus.ma/darkblue/jamourgh?UM6P=on" alt="jamourgh's 42 stats">
 
 <p align="left">
-  <p align=¨left¨ width=¨400¨>
+  <p align=¨justify¨ width=¨400¨>
     I have a huge interest in web development. With a strong foundation in frontend technologies, I strive to deliver seamless and interactive user experiences. My backend skills center around Next.js, MongoDB, and TypeScript, enabling me to build robust and scalable web applications.
   </p>
   
-  <p align=¨left¨ width=¨400¨>
+  <p align=¨justify¨ width=¨400¨>
   Beyond the web, I have a deep-rooted passion for the C programming language. I find its low-level control and performance fascinating, and I am currently dedicated to mastering its intricacies. This dual interest in both modern web technologies and foundational systems programming reflects my commitment to becoming a well-rounded developer. I believe that understanding how things work under the hood enriches my capabilities in higher-level development and problem-solving.
   </p>
   
