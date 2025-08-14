@@ -15,11 +15,11 @@
 <img align="right" alt="Coding" width="400" src="https://badge.mediaplus.ma/darkblue/jamourgh?UM6P=on" alt="jamourgh's 42 stats">
 
 ````
-I have  a  huge interest in web  development.  With a  strong
-foundation  in  frontend  technologies,  I  strive to deliver
-seamless   and   interactive  user  experiences.  My  backend
-skills  center  around  Next.js,   MongoDB,  and  TypeScript,
-enabling me  to  build  robust and scalable web applications.
+I have  a  huge interest in web  development. With a  strong
+foundation  in frontend  technologies,  I  strive to deliver
+seamless   and  interactive  user  experiences.  My  backend
+skills  center  around  Next.js,   MongoDB, and  TypeScript,
+enabling me to  build  robust and scalable web applications.
 ````
 
 ```
