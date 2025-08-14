@@ -14,24 +14,35 @@
 
 <img align="right" alt="Coding" width="450" src="https://badge.mediaplus.ma/darkblue/jamourgh?UM6P=on" alt="jamourgh's 42 stats">
 
-<p align="left">
-  <p align=¨justify¨ width=¨400¨>
-    I have a huge interest in web development. With a strong foundation in frontend technologies, I strive to deliver seamless and interactive user experiences. My backend skills center around Next.js, MongoDB, and TypeScript, enabling me to build robust and scalable web applications.
-  </p>
+````
+I have  a  huge interest in web  development.  With a  strong
+foundation  in  frontend  technologies,  I  strive to deliver
+seamless   and   interactive  user  experiences.  My  backend
+skills  center  around  Next.js,   MongoDB,  and  TypeScript,
+enabling me  to  build  robust and scalable web applications.
+````
+
+```
+Beyond  the web, I have a deep passion for the C programming
+language. I  find  its  low-level  control  and  performance
+fascinating, and  I am currently dedicated  to mastering its
+intricacies. This  dual interest in both  modern  web techn-
+ologies   and  foundational  systems  programming   reflects
+my  commitment   to   becoming  a   well-rounded  developer.
+I   believe  that  understanding   how  things  work   under
+the   hood  enriches   my   capabilities   in   higher-level
+development and problem-solving.
+```
   
-  <p align=¨justify¨ width=¨400¨>
-  Beyond the web, I have a deep-rooted passion for the C programming language. I find its low-level control and performance fascinating, and I am currently dedicated to mastering its intricacies. This dual interest in both modern web technologies and foundational systems programming reflects my commitment to becoming a well-rounded developer. I believe that understanding how things work under the hood enriches my capabilities in higher-level development and problem-solving.
-  </p>
+  - `👨‍🎓 I'm a Junior Software Developer Self Taught`
   
-  - 👨‍🎓 I'm a Junior Software Developer Self Taught
+  - ` 🌱 I’m currently mastering **C && Python**`
   
-  - 🌱 I’m currently mastering **C && Python**
+  - `💬 Ask me about anything about Front-end, Next JS, React JS, C Happy to help.`
   
-  - 💬 Ask me about anything about Front-end, Next JS, React JS, C Happy to help.
+  - `👨‍💻 All of my projects are available at [Here](https://jalal-amourgha.github.io/)`
   
-  - 👨‍💻 All of my projects are available at [Here](https://jalal-amourgha.github.io/)
-  
-  - 💪 This is where i solve problems:
+  - `💪 This is where i solve problems:`
     - <a href="https://leetcode.com/u/Mr29/" target="_blank"><img align="center" src="https://res.cloudinary.com/drsghr0p5/image/upload/v1747833481/icon25_wjocj8.png" width="35" height="35"/></a>
     - <a href="https://www.codewars.com/users/Jalal_Amr" target="_blank"><img align="center" src="https://res.cloudinary.com/drsghr0p5/image/upload/v1747833479/icon24_ierxng.png" width="35" height="35"/></a>
 </p>
