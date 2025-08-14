@@ -12,7 +12,7 @@
 
 <p></p>
 
-<img align="right" alt="Coding" width="450" src="https://badge.mediaplus.ma/darkblue/jamourgh?UM6P=on" alt="jamourgh's 42 stats">
+<img align="right" alt="Coding" width="400" src="https://badge.mediaplus.ma/darkblue/jamourgh?UM6P=on" alt="jamourgh's 42 stats">
 
 ````
 I have  a  huge interest in web  development.  With a  strong
