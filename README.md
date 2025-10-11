@@ -36,14 +36,14 @@ development and problem-solving.
   
   - `👨‍🎓 I'm a Junior Software Developer Self Taught`
   
-  - ` 🌱 I’m currently mastering **C && Python**`
+  - `🌱 I’m currently mastering **C && Python**`
   
   - `💬 Ask me about anything about Front-end, Next JS, React JS, C Happy to help.`
   
   - `👨‍💻 All of my projects are available at [Here](https://jalal-amourgha.github.io/)`
   
   - `💪 This is where i solve problems:`
-    - <a href="https://leetcode.com/u/Mr29/" target="_blank"><img align="center" src="https://res.cloudinary.com/drsghr0p5/image/upload/v1747833481/icon25_wjocj8.png" width="35" height="35"/></a>
+    - <a href="https://leetcode.com/u/Jalal_Amr/" target="_blank"><img align="center" src="https://res.cloudinary.com/drsghr0p5/image/upload/v1747833481/icon25_wjocj8.png" width="35" height="35"/></a>
     - <a href="https://www.codewars.com/users/Jalal_Amr" target="_blank"><img align="center" src="https://res.cloudinary.com/drsghr0p5/image/upload/v1747833479/icon24_ierxng.png" width="35" height="35"/></a>
 </p>
 
@@ -122,7 +122,7 @@ hr0p5/image/upload/v1747835045/icon28_y7svkz.png" alt="git" width="40" height="4
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://leetcard.jacoblin.cool/Mr29?theme=dark&font=baloo&ext=activity" alt="LeetCode Card" />
+      <img src="https://leetcard.jacoblin.cool/Jalal_Amr?theme=dark&font=baloo&ext=activity" alt="LeetCode Card" />
     </td>
   </tr>
 </table>
