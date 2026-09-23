@@ -1,129 +1,276 @@
+<div>
+  <img src="https://res.cloudinary.com/drsghr0p5/image/upload/v1789837863/nuiofwwynl7fgf6to7n7.gif" />
+</div>
+
+
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Jalal-Amourgha/Jalal-Amourgha/main/icons/GIF.gif" width="60%" />
- </div>
 
-<hr>
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=jalal-amourgha&label=Profile%20views&color=0e75b6&style=flat" alt="jalal-amourgha" /> 
-<img src="https://img.shields.io/badge/C-Passionate-informational?style=flat&logo=c" />
-</p>
 
-<h3 align="center">Hello! 👋, my name is <strogn>Jalal Amourgha</strogn></h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=40&duration=2500&pause=500&color=7FFFD4&center=true&vCenter=true&width=435&lines=Hey;I'm+Jalal+Amourgha;Software+developer;AI%2FLLM+Enthusiast+;Problem+Solver)](https://git.io/typing-svg)
+
+
+**Building with AI, exploring intelligent agents, mastering algorithms, and still shipping for the web.**
+
 
 <p></p>
 
-<img align="right" alt="Coding" width="400" src="https://badge.mediaplus.ma/darkblue/jamourgh?UM6P=on" alt="jamourgh's 42 stats">
+  <a href="https://jalal-amr.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel&logoColor=black&labelColor=fff"/>
+  </a>
+  <a href="https://github.com/Jalal-Amourgha" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=000&labelColor=fff" />
+  </a>
+  <a href="https://leetcode.com/u/jalal_amr/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-f89f1b?style=for-the-badge&logo=leetcode&logoColor=f89f1b&labelColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jalal-amourgha/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=infracost&logoColor=0A66C2&labelColor=white"/>
+  </a>
+  <a href="mailto:jalalamourgha.mail@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=D14836&labelColor=white" />
+  </a>
 
-````
-I have  a  huge interest in web  development. With a  strong
-foundation  in frontend  technologies,  I  strive to deliver
-seamless   and  interactive  user  experiences.  My  backend
-skills  center  around  Next.js,   MongoDB, and  TypeScript,
-enabling me to  build  robust and scalable web applications.
-````
+<p></p>
 
-```
-Beyond  the web, I have a deep passion for the C programming
-language. I  find  its  low-level  control  and  performance
-fascinating, and  I am currently dedicated  to mastering its
-intricacies. This  dual interest in both  modern  web techn-
-ologies   and  foundational  systems  programming   reflects
-my  commitment   to   becoming  a   well-rounded  developer.
-I   believe  that  understanding   how  things  work   under
-the   hood  enriches   my   capabilities   in   higher-level
-development and problem-solving.
-```
-  
-  - `👨‍🎓 I'm a Junior Software Developer Self Taught`
-  
-  - `🌱 I’m currently mastering **C && Python**`
-  
-  - `💬 Ask me about anything about Front-end, Next JS, React JS, C Happy to help.`
-  
-  - `👨‍💻 All of my projects are available at [Here](https://jalal-amourgha.github.io/)`
-  
-  - `💪 This is where i solve problems:`
-    - <a href="https://leetcode.com/u/Jalal_Amr/" target="_blank"><img align="center" src="https://res.cloudinary.com/drsghr0p5/image/upload/v1747833481/icon25_wjocj8.png" width="35" height="35"/></a>
-    - <a href="https://www.codewars.com/users/Jalal_Amr" target="_blank"><img align="center" src="https://res.cloudinary.com/drsghr0p5/image/upload/v1747833479/icon24_ierxng.png" width="35" height="35"/></a>
-</p>
+  <img align="center" alt="Coding" width="400" src="https://badge.mediaplus.ma/binary/jamourgh?UM6P=on" />
+
+</div>
+
+---
+
+<pre>
+jalal_amr@github~% cd ./about-me
+
+╭──────────────────────────────────────────────────────────────────────╮
+│                                                                      │
+│                          A B O U T - M E                             │
+│                                                                      │
+╰──────────────────────────────────────────────────────────────────────╯
+
+$ whoami
+
+Jalal Amourgha
+└── Software Developer · AI Enthusiast · 1337 Student
+    📍 Morocco
 
 
+$ cat profile.txt
+
+I'm a software developer from Morocco with a strong
+foundation  in  **computer science, algorithms, web
+development,  and  systems programming**, currently
+going   deeper  into  **Artificial Intelligence and
+LLM based applications**.
+
+My  journey   has   taken  me   from  building  web
+applications  and  learning low  level  programming
+to  exploring  how  intelligent  systems can reason
+retrieve  information,  use  tools,  and solve real
+world problems.
+
+Currently,  I'm  a  student  at  1337 Coding School
+where  I'm  continuing  to  push my programming and
+problem solving skills.
 
 
-<h1>🛠️ My Favorite Tools</h1>
+$ cat education.txt
+Mohammed VI polytechnic university - 1337 Coding School
+├── Computer Science
+├── Systems Programming
+├── Algorithms & Data Structures
+├── Problem Solving
+└── Software Engineering
 
-<h3 align="left">👨‍💻 Programming languages</h3>
-<p align="left">
-<img src="https://res.cloudinary.com/drsghr0p5/image/upload/v1747833478/icon22_der3af.png" alt="c" width="40" height="40"/>
-<img src="https://res.cloudinary.com/drsghr0p5/image/upload/v1747833485/icon6_cfdhox.png" alt="javascript" width="40" height="40"/>
-<img src="https://res.cloudinary.com/drsghr0p5/image/upload/v1747833498/icon16_pzuwid.png" alt="typescript" width="40" height="40"/>
-<img src="https://res.cloudinary.com/drsghr0p5/image/upload/v1747833477/icon21_goao0x.png" alt="python" width="40" height="40"/>
-<img src="https://res.cloudinary.com/drsghr0p5/image/upload/v1747833488/icon9_l0fop9.png" alt="php" width="40" height="40"/>
-</p>
+$ ./current-focus.sh
+[████████████████████████████████████████] 100%
+🤖  AI Agents & Agentic Systems
+🧠  LLMs & LLM-powered Applications
+🔎  RAG & Retrieval Systems
+🤗  Machine Learning & Artificial Intelligence
+🐍  Python & AI Engineering
+🧩  Algorithms & Data Structures
+🌐  Web Development
+⚙️  Software Engineering & Systems
 
-<h3 align="left">🎨 Markup & Styling</h3>
-<p align="left">
-<img src="https://res.cloudinary.com/drsghr0p5/image/upload/v1747833483/icon4_zr3ddp.png" alt="html" width="40" height="40"/>
-<img src="https://res.cloudinary.com/drsghr0p5/image/upload/v1747833484/icon5_yi4xe1.png" alt="css" width="40" height="40"/>
-</p>
+$ echo $PHILOSOPHY
+"Learn → Build → Break → Understand → Improve → Repeat."
 
-<h3 align="left">🚀 Frameworks and libraries</h3>
-<p align="left">
-<img src="https://res.cloudinary.com/drsghr0p5/image/upload/v1747833499/icon17_mhohd4.png" alt="next js" width="40" height="40"/>
-<img src="https://res.cloudinary.com/drsghr0p5/image/upload/v1747833496/icon14_zw6etl.png" alt="react" width="40" height="40"/>
-<img src="https://res.cloudinary.com/drsghr0p5/image/upload/v1747833497/icon15_ptjtfg.png" alt="tailwind css" width="40" height="40"/>
-<img src="https://res.cloudinary.com/drsghr0p5/image/upload/v1748433159/4691324_flask_icon_1_qrl6hh.png" alt="flask" width="40" height="40"/>
-<img src="https://res.cloudinary.com/drsghr0p5/image/upload/v1747833487/icon7_dv23ww.png" alt="bootstrap" width="40" height="40"/>
-<img src="https://res.cloudinary.com/drsghr0p5/image/upload/v1747833489/icon10_bjqbqp.png" alt="sass" width="40" height="40"/>
-<img src="https://res.cloudinary.com/drsghr0p5/image/upload/v1747833492/icon13_k31s8a.png" alt="php" width="40" height="40"/>
-<img src="https://res.cloudinary.com/drsghr0p5/image/upload/v1747833492/icon12_gsbajd.png" alt="jquery" width="40" height="40"/>
-<img src="https://res.cloudinary.com/drsghr0p5/image/upload/v1747833491/icon11_nif0lc.png" alt="jest js" width="40" height="40"/>
-<img src="https://res.cloudinary.com/drsghr0p5/image/upload/v1747833502/icon19_smvpeg.png" alt=" mui" width="40" height="40"/>
-</p>
 
-<h3 align="left">🛢Databases</h3>
-<p align="left">
-<img src="https://res.cloudinary.com/drsghr0p5/image/upload/v1747833502/icon18_xcne4f.png"  alt="mongodb" width="40" height="40"/>
-<img src="https://res.cloudinary.com/drsghr0p5/image/upload/v1747833478/icon20_rfucea.png" alt="mysql" width="40" height="40"/>
-<img src="https://res.cloudinary.com/drsghr0p5/image/upload/v1747833478/icon23_trr4yh.png" alt="firebase" width="40" height="40"/>
-</p>
+jalal_amr@github:~% cd ./skills
 
-<h3 align="left">💻 Software and tools</h3>
-<p align="left">
-<img src="https://res.cloudinary.com/drsghr0p5/image/upload/v1747835044/icon27_tc9g5v.png" alt="figma" width="40" height="40"/>
-<img src="https://res.cloudinary.com/drsg
-hr0p5/image/upload/v1747835045/icon28_y7svkz.png" alt="git" width="40" height="40"/>
-<img src="https://res.cloudinary.com/drsghr0p5/image/upload/v1747833481/icon26_eosjjg.png" alt="npm" width="40" height="40"/>
-</p>
+╭──────────────────────────────────────────────────────────────────────╮
+│                                                                      │
+│                            S K I L L S                               │
+│                                                                      │
+╰──────────────────────────────────────────────────────────────────────╯
 
-<h1>📊 My Developer Stats</h1>
+$ ls languages
 
-<table>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=Jalal-Amourgha&theme=tokyonight&margin-w=10" alt="jalal amourgha" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://streak-stats.demolab.com/?user=Jalal-Amourgha&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Jalal-Amourgha&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jalal-amourgha&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-    </td>
-    <td>
-      <img src="https://www.codewars.com/users/Jalal_Amr/badges/large" alt="Codewars Badge" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://leetcard.jacoblin.cool/Jalal_Amr?theme=dark&font=baloo&ext=activity" alt="LeetCode Card" />
-    </td>
-  </tr>
-</table>
+<img src="https://skillicons.dev/icons?i=python,go,typescript,javascript,php,c" />
 
+$ ls AI-ML
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,matlab,anaconda,opencv" />
+
+$ ls web
+
+<img src="https://skillicons.dev/icons?i=vite,react,nextjs,typescript,javascript,mui,tailwind,bootstrap,sass" />
+<img src="https://skillicons.dev/icons?i=html,css,jest,pug,jquery" />
+
+$ ls backend-databases
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask,nodejs,mongodb,mysql,firebase,postgresql,sqlite" />
+
+$ ls devops-tools
+
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,nginx,wordpress,npm,bash,notion,figma" />
+
+
+jalal_amr@github:~% cd ./leetcode
+
+╭──────────────────────────────────────────────────────────────────────╮
+│                                                                      │
+│                          L E E T C O D E                             │
+│                                                                      │
+╰──────────────────────────────────────────────────────────────────────╯
+
+$ sh stats.sh
+┌──────────────────────────────────────────────────────────────────────┐
+│                              LEETCODE                                │
+├──────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│  Platform            :: LeetCode                                     │
+│  Status              :: ● ACTIVE                                     │
+│  Username            :: Jalal_Amr                                    │
+│  Rank                :: 145000                                       │
+│  Top                 :: 1.8%                                         │
+│  Total Active Day    :: +500 Days                                    │
+│  Problems Solved     :: +600                                         │
+│  Easy                :: +375/965                                     │
+│  Problems Solved     :: +190/2115                                    │
+│  Problems Solved     :: +50/975                                      │
+│  Languages           :: Python - C - Javascript                      │
+│                                                                      │
+└──────────────────────────────────────────────────────────────────────┘
+
+$ cat philosophy.txt
+> Solving leetcode problems is one of my favorite habits
+
+$ ls algorithms
+┌─ ALGORITHMS ─────────────────────────────────────────────────────────┐
+│                                                                      │
+│  Dynamic Programming      Backtracking        Graph Theory           │
+│  DFS                      BFS                 Greedy                 │
+│  Binary Search            Recursion           Two Pointers           │
+│  Sliding Window           Bit Manipulation    Math                   │
+│                                                                      │
+└──────────────────────────────────────────────────────────────────────┘
+
+$ ls data_structers
+┌─ DATA STRUCTURES ────────────────────────────────────────────────────┐
+│                                                                      │
+│  Hash Tables              Linked Lists        Trees                  │
+│  Stacks                   Queues              Graphs                 │
+│  Data Streams             Heaps               Arrays                 │
+│                                                                      │
+└──────────────────────────────────────────────────────────────────────┘
+
+$ echo $CURRENT_MISSION
+"Don't just solve problems.
+ Learn to see the solution before writing the code."
+
+<div align="left">
+
+<a href="https://leetcode.com/u/Jalal_Amr/"><img src="https://leetcard.jacoblin.cool/Jalal_Amr?theme=catppuccinMocha&font=JetBrains%20Mono&ext=heatmap" alt="Jalal Amourgha LeetCode Stats" align="top" hspace="20" vspace="10" width="300px"/></a><a href="https://leetcode.com/u/Jalal_Amr/"><img src="https://leetcode-badge-showcase.vercel.app/api?username=Jalal_Amr&theme=tokyonight&border=border&animated=true" alt="Jalal Amourgha LeetCode Stats" width="300px" /></a>
+</div>
+
+
+jalal_amr@github~% cd ./ai-engine
+
+╭──────────────────────────────────────────────────────────────────────╮
+│                                                                      │
+│                               A I & M L                              │
+│                                                                      │
+╰──────────────────────────────────────────────────────────────────────╯
+
+$ cat status.txt
+> This is currently the area I'm most comfortable with.
+> I've been exploring how modern AI systems can be built beyond simply calling an LLM API.
+
+
+$ ls stacks
+[01] Large Language Models (LLMs) ........ OK
+[02] AI Agents ........................... OK
+[03] Agentic workflows ................... OK
+[04] Retrieval-Augmented Generation (RAG). OK
+[05] Vector databases & semantic search... OK
+[06] Embeddings .......................... OK
+[07] Tool calling ........................ OK
+[08] Multi-step reasoning workflows....... OK
+[09] Machine Learning .................... OK
+
+I'm particularly interested in building systems where an LLM can **retrieve knowledge, reason over information, use tools, interact with external systems, and accomplish tasks autonomously**.
+
+
+jalal_amr@github:~% cd ./projects
+
+╭──────────────────────────────────────────────────────────────────────╮
+│                                                                      │
+│                          P R O J E C T S                             │
+│                                                                      │
+╰──────────────────────────────────────────────────────────────────────╯
+
+[01] Agent Smith
+     ├── status      :: BUILDING
+     ├── status      :: AI Agent
+     ├── name        :: Agent Smith
+     ├── stack       :: Python · LLMs · AI Agents · MCP - Sandbox
+     ├── description :: Autonomous coding agent that follows a Thought → Code → Observation
+                        loop to reason about programming tasks, generate executable Python,
+                        interact with development tools, and iteratively refine solutions.
+     └── visit       :: coming soon
+
+[02] RAG Against the Machine
+     ├── status      :: FINISHED
+     ├── type        :: RAG System
+     ├── name        :: RAG Against the Machine — vLLM Codebase RAG
+     ├── stack       :: Python · LLMs · RAG · Langchain · Vector Search
+     ├── description :: Retrieval Augmented Generation pipeline that indexes
+                        the vLLM codebase, retrieves relevant source code/documentation
+                        snippets, and generates grounded answers using Qwen/Qwen3-0.6B.
+     └── visit       :: https://github.com/Jalal-Amourgha/RAG-Against-The-Machine
+
+
+[03] Morocco Marvel Travel
+     ├── status      :: ONLINE
+     ├── type        :: Web Application
+     ├── name        :: Morocco Marvel Travel
+     ├── stack       :: Next.js · Typescript · Tailwind CSS · MongoDB
+     ├── description :: Travel booking platform inspired by airbnb, enabling users to discover
+                        and book hostels, accommodations. Implemented the core booking workflow
+                        for accommodation discovery and reservations.
+     └── visit       :: https://morocco-marvel-travel-ten.vercel.app/
+
+
+[04] Z
+     ├── status      :: ONLINE
+     ├── type        :: Web Application
+     ├── name        :: Z
+     ├── stack       :: Next.js · Typescript · Tailwind CSS · MongoDB
+     ├── description :: Dev full stack social media platform supporting user authentication,
+                        profiles, following, posts, likes, comments, shares, saved posts, search,
+                        image uploads, and social interactions.
+     └── visit       :: https://z-swart-tau.vercel.app/
+
+[05] E-Tech
+     ├── status      :: ONLINE
+     ├── type        :: Web Application
+     ├── name        :: E-Tech
+     ├── stack       :: Next.js · Typescript · Tailwind CSS · MongoDB
+     ├── description :: A full-stack e-commerce platform with user authentication, product browsing,
+                        product detail pages, order creation, and order tracking.
+     └── visit       :: https://etech-smoky.vercel.app/
+
+
+</pre>
