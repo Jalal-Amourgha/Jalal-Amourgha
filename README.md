@@ -149,7 +149,7 @@ $ sh stats.sh
 │  Problems Solved     :: +600                                         │
 │  Easy                :: +375/965                                     │
 │  Problems Solved     :: +190/2115                                    │
-│  Problems Solved     :: +50/975                                      │
+│  Problems Solved     :: +37/975                                      │
 │  Languages           :: Python - C - Javascript                      │
 │                                                                      │
 └──────────────────────────────────────────────────────────────────────┘
