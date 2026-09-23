@@ -182,7 +182,7 @@ $ echo $CURRENT_MISSION
 
 <div align="left">
 
-<a href="https://leetcode.com/u/Jalal_Amr/"><img src="https://leetcard.jacoblin.cool/Jalal_Amr?theme=catppuccinMocha&font=JetBrains%20Mono&ext=heatmap" alt="Jalal Amourgha LeetCode Stats" align="top" hspace="20" vspace="10" width="450px"/></a><a href="https://leetcode.com/u/Jalal_Amr/"><img src="https://leetcode-badge-showcase.vercel.app/api?username=Jalal_Amr&theme=tokyonight&border=border&animated=true" alt="Jalal Amourgha LeetCode Stats" width="350px" /></a>
+<a href="https://leetcode.com/u/Jalal_Amr/"><img src="https://leetcard.jacoblin.cool/Jalal_Amr?theme=catppuccinMocha&font=JetBrains%20Mono&ext=heatmap" alt="Jalal Amourgha LeetCode Stats" align="top" hspace="20" vspace="10" width="400px"/></a><a href="https://leetcode.com/u/Jalal_Amr/"><img src="https://leetcode-badge-showcase.vercel.app/api?username=Jalal_Amr&theme=tokyonight&border=border&animated=true" alt="Jalal Amourgha LeetCode Stats" width="350px" /></a>
 </div>
 
 
